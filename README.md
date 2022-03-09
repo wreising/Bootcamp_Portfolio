@@ -2,6 +2,7 @@
 
 https://github.com/wreising/Bootcamp_Portfolio
 
+https://wreising.github.io/Bootcamp_Portfolio/
 
 
 hl
