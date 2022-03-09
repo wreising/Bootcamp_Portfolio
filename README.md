@@ -4,9 +4,8 @@ https://github.com/wreising/Bootcamp_Portfolio
 
 https://wreising.github.io/Bootcamp_Portfolio/
 
-
-hl
-hr
+______
+______
 
 #Coding Bootcamp - Week 1 - Homework2
 
