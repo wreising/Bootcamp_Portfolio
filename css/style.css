@@ -81,6 +81,18 @@ a[href^="https://github"] {
   padding-left: 35px;
 }
 
+a[href^="https://bootcamp"] {
+  font-family: "Courier New", monospace;
+  background: url(../images/github.png) no-repeat left center;
+  padding-left: 35px;
+}
+
+a[href^="https://wreising"] {
+  font-family: "Courier New", monospace;
+  background: url(../images/github.png) no-repeat left center;
+  padding-left: 35px;
+}
+
 a[href^="https://uci"] {
   font-family: "Courier New", monospace;
   background: url(../images/gitlab.png) no-repeat left center;
